@@ -1,0 +1,22 @@
+@import "details.css";
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/*Typography
+--------------------------------------------------------------*/
+button,
+input,
+select,
+textarea {
+	color: white;
+	font-family: "Comfortaa", Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+}
+
+h2,h3,h4,h5,h6 {
+  letter-spacing: 2px;
+}
+
+body {
+	background-image: url("https://images.unsplash.com/photo-1596645537562-f35cf71ee459?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1721&q=80")
+}
